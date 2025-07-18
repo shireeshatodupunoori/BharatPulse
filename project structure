@@ -1,0 +1,4 @@
+rss-news-reader/
+├── app.py                 👈 Your Streamlit script
+├── requirements.txt       👈 List of libraries
+└── README.md              👈 (optional) project description
